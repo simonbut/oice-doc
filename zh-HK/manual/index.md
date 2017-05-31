@@ -44,9 +44,9 @@
 ![](resources/3c17206a364f42a8bb3d3c6a84291d65.png)
 
 ## 步驟四
-設定好故事組件後，點擊運行遊戲以播放故事。
+設定好故事組件後，點擊「預覽」以播放故事。
 
-![](resources/32a7274eeab04e3b96bcb3f9ae396a45.png)
+![](resources/run.jpg)
 
 ## 步驟五
 點擊鏈接/播放鍵即可播放。
